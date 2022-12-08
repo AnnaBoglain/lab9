@@ -9,6 +9,7 @@ int main() {
 	cout << "Введите два числа" << endl;
 	cin >> a;
 	cin >> b;
-
+	int c = a + b;
+    cout << "Сумма чисел:" << c;
 	return 0;
 }
