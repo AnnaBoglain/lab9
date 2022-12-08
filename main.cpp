@@ -3,7 +3,7 @@
 #include <iostream>
 #include <Windows.h>
 using namespace std;
-
+// комментарий
 int main() {
 	int a, b;
 	cout << "Введите два числа" << endl;
