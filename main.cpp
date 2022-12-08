@@ -11,5 +11,6 @@ int main() {
 	cin >> b;
 	int c = a + b;
     cout << "Сумма чисел:" << c;
+	cout << "Разница двух чисел" << a - b;
 	return 0;
 }
